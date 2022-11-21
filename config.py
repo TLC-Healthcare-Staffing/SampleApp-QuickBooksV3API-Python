@@ -13,3 +13,4 @@ ENVIRONMENT = 'Sandbox'
 # Set to latest at the time of updating this app, can be be configured to any minor version
 API_MINORVERSION = '65'
 
+AUTH_TYPE = "OAuth2"
